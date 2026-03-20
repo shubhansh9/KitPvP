@@ -1,6 +1,6 @@
 # ⚔️ KitPvP Plugin
 
-A custom **KitPvP plugin** for Minecraft multiplayer servers built with **Java** and the **Spigot API**. Players can choose from a variety of combat kits and fight each other in an action-packed PvP arena.
+A custom **KitPvP plugin** for Minecraft multiplayer servers built with **Java** and the **Spigot API**. Players can choose from a variety of combat kits and fight each other in an action-packed PvP arena
 
 ---
 
