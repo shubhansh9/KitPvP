@@ -1,10 +1,10 @@
 # ⚔️ KitPvP Plugin
 
-A custom **KitPvP plugin** for Minecraft multiplayer servers built with **Java** and the **Spigot API**. Players can choose from a variety of combat kits and fight each other in an action-packed PvP arena
+A custom **KitPvP plugin** for Minecraft multiplayer servers built with **Java** and the **Spigot API**. Players can choose from a variety of combat kits and fight each other in an action-packed PvP arena.
 
 ---
 
-## 🧩 Features
+ 🧩 Features
 
 - 🗡️ **Multiple Kits** — Choose from unique kits like Warrior, Archer, Tank, and more
 - 📊 **Kill / Death Tracking** — Tracks each player's kills and deaths per session
@@ -25,7 +25,7 @@ A custom **KitPvP plugin** for Minecraft multiplayer servers built with **Java**
 
 ---
 
-## 🛠️ Commands
+ 🛠️ Commands
 
 | Command | Description | Permission |
 |--------|-------------|------------|
@@ -38,7 +38,7 @@ A custom **KitPvP plugin** for Minecraft multiplayer servers built with **Java**
 
 ---
 
-## 🔐 Permissions
+ 🔐 Permissions
 
 | Permission | Description |
 |-----------|-------------|
@@ -50,7 +50,7 @@ A custom **KitPvP plugin** for Minecraft multiplayer servers built with **Java**
 
 ---
 
-## ⚙️ Configuration
+ ⚙️ Configuration
 
 ```yaml
 # config.yml
